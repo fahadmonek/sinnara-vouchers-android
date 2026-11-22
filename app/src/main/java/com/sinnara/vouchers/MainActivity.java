@@ -28,8 +28,8 @@ import org.json.JSONObject;
 public class MainActivity extends Activity {
 
     /** Default website address. Can be changed on the phone; the saved address is used after that. */
-    static final String DEFAULT_URL = "https://sinnara-vouchers.pages.dev/";
-    static final String APP_VERSION = "1.0.2";
+    static final String DEFAULT_URL = "https://sinnara-vouchers.sannarafiles.workers.dev/";
+    static final String APP_VERSION = "1.0.3";
     private static final String PREFS = "sinnara";
     private static final String KEY_URL = "site_url";
 

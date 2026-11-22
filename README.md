@@ -1,6 +1,6 @@
 # Sinnara Vouchers – Android app
 
-Opens the voucher website (https://sinnara-vouchers.pages.dev/) and prints vouchers
+Opens the voucher website (https://sinnara-vouchers.sannarafiles.workers.dev/) and prints vouchers
 directly to each branch's network thermal printer (ESC/POS, IP address + port 9100).
 No other printing app is needed.
 
